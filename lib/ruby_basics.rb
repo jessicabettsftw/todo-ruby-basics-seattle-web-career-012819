@@ -12,7 +12,7 @@ def argue(input)
   return input
 end
 
-def greeting
+def greeting(input1, input2)
 
 end
 
